@@ -1,0 +1,4 @@
+myinfo.txt
+mypass.txt
+mydata/*
+!mydata/file5
